@@ -1,0 +1,47 @@
+{
+  "name": "@sukeyu/cce",
+  "version": "0.1.0",
+  "description": "Claude Code Environment Manager - Manage multiple Claude Code configurations and switch between different models",
+  "type": "module",
+  "bin": {
+    "cce": "./bin/cce.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node bin/cce.js version"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "anthropic",
+    "deepseek",
+    "openai",
+    "ai",
+    "cli",
+    "environment",
+    "manager",
+    "llm",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sukeyu/cce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sukeyu/cce/issues"
+  },
+  "homepage": "https://github.com/sukeyu/cce#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
