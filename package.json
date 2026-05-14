@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sukeyu/cce.git"
+    "url": "https://github.com/SukeyByte/cce.git"
   },
   "bugs": {
-    "url": "https://github.com/sukeyu/cce/issues"
+    "url": "https://github.com/SukeyByte/cce/issues"
   },
-  "homepage": "https://github.com/sukeyu/cce#readme",
+  "homepage": "https://github.com/SukeyByte/cce#readme",
   "engines": {
     "node": ">=18.0.0"
   }
