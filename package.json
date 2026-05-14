@@ -1,10 +1,10 @@
 {
   "name": "@sukeyu/cce",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude Code Environment Manager - Manage multiple Claude Code configurations and switch between different models",
   "type": "module",
   "bin": {
-    "cce": "./bin/cce.js"
+    "cce": "bin/cce.js"
   },
   "files": [
     "bin",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SukeyByte/cce.git"
+    "url": "git+https://github.com/SukeyByte/cce.git"
   },
   "bugs": {
     "url": "https://github.com/SukeyByte/cce/issues"
