@@ -1,5 +1,7 @@
 # cce - Claude Code Environment Manager
 
+![demo](demo.png)
+
 > Manage multiple Claude Code configurations and switch between different providers/models in different terminals.
 
 ## What it does
