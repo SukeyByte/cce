@@ -1,6 +1,6 @@
 {
   "name": "@sukeyu/cce",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Claude Code Environment Manager - Manage multiple Claude Code configurations and switch between different models",
   "type": "module",
   "bin": {
